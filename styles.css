@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.favorite-color {
+	color: black;
+	font-size: 15px;
+	font-weight: 600;
+}
